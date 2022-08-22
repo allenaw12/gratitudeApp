@@ -1,0 +1,10 @@
+p {
+    /* May need to add !important to override materialize stylings */
+    margin: 10px 0; 
+}
+
+.login-container {
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
