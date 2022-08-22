@@ -8,3 +8,9 @@ p {
     margin-top: 50px;
     text-align: center;
 }
+
+/* .fa-small {
+    /* May need to add !important to override materialize stylings */
+    /* font-size: 16px !important;
+    
+} */
